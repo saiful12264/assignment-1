@@ -62,7 +62,8 @@ nav div{
 }
 .btn-banner{
   /* align-items: center; */
-  margin: 40px 0px 164px 770px;
+  margin: 40px 633px 164px 633px;
+  /* margin: 0 auto; */
   
 }
 
