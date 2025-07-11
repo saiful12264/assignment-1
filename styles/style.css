@@ -29,7 +29,11 @@
     border-radius: 5px;
     padding: 18px 36px;
     border: none;
+    cursor: pointer;
 
+}
+.btn-primary:hover{
+    background-color: rgb(118, 108, 95);
 }
  /* .btn-primary{
     background-color: #FD6E0A;
@@ -59,6 +63,7 @@ nav div{
 .btn-banner{
   /* align-items: center; */
   margin: 40px 0px 164px 770px;
+  
 }
 
 
@@ -166,7 +171,11 @@ main textarea{
     border-radius: 5px;
     padding: 18px 201px;
     border: none;
+    cursor: pointer;
 
+}
+.btn-primary-form:hover{
+   background-color: bisque;
 }
 .label{
   font-size: 18px;
@@ -189,7 +198,7 @@ footer{
   max-width: 531px;
   margin: 104px auto;
 }
-.web-name{
+.web-name-footer{
   font-size: 100px;
   font-weight:900px ;
   color: #4E47FF;
@@ -209,4 +218,55 @@ footer{
 .ul-link{
   display: flex;
   justify-content: space-around;
+}
+
+
+
+.chan-title{
+  font-size: 42px;
+  font-weight: bold;
+  color: #252432;
+  
+}
+
+.card{
+  /* display: flex;
+  gap: 24px; */
+  background-color: rgba(255, 255, 255, 0.5);
+  max-width: 366px;
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+}
+.img-foot{
+  display: flex;
+  align-items: center;
+  max-width: 318px;
+  max-height: 46px;
+
+}
+.user-tile{
+  margin-bottom: 0px;
+}
+/* .rev{
+  margin-bottom: 30px;
+} */
+/* .rev-img{
+  width: 40px;
+} */
+.span-tile{
+  color: #757575;
+}
+.span-sub{
+  color: #B3B3B3;
+}
+.user-feedback{
+  margin-top: 116px;
+}
+.card-mother{
+  display: flex;
+  gap: 24px;
+}
+.rev-img{
+  border-radius: 50%;
 }
