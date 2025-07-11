@@ -60,3 +60,33 @@ nav div{
   /* align-items: center; */
   margin: 40px 0px 164px 770px;
 }
+
+
+
+
+
+.ma{
+  max-width: 1140px;
+  margin: 0 auto;
+}
+.left{
+  max-width: 517px;
+}
+.left-title{
+  font-size: 42px;
+  font-weight: bold;
+
+}
+.left-sub-title{
+  font-size: 24px;
+  font-weight: 400px;
+  color: #252432;
+}
+/* .right{
+  width: 403px;
+} */
+.action{
+  margin-top: 116px;
+  display: flex;
+  gap: 220px;
+}
