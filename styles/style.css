@@ -121,3 +121,60 @@ nav div{
   font-weight: 400px;
   color: rgba(0, 0, 0, 0.5);
 }
+
+.touch{
+  margin-top: 116px;
+  display: flex;
+  /* gap: 220px; */
+  /* gap: 220px; */
+  gap: 115px;
+}
+
+.touch-left{
+  font-size: 60px;
+  font-weight: bold;
+  color: #000000;
+}
+
+main input[type="text"],  main input[type="email"] {
+    height: 32px;
+    border-radius: 5px;
+    background-color: white;
+    display: block;
+    width: 90%;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+    border: 2px solid black;
+}
+main textarea{
+   height: 75px;
+    border-radius: 5px;
+    background-color: white;
+    display: block;
+    width: 90%;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+    border: 2px solid black;
+
+}
+.btn-primary-form{
+    background-color:#4E47FF ;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: bold;
+    /* width: 120%; */
+    border-radius: 5px;
+    padding: 18px 201px;
+    border: none;
+
+}
+.label{
+  font-size: 18px;
+  font-weight: 500px;
+  color: #000000;
+}
+.place{
+  font-size: 20px;
+  font-weight: 400px;
+  color: rgba(0, 0, 0, 0.5);
+}
