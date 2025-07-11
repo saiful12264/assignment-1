@@ -178,3 +178,35 @@ main textarea{
   font-weight: 400px;
   color: rgba(0, 0, 0, 0.5);
 }
+footer{
+  background-color:#FFFFFF ;
+
+}
+
+
+
+.foot-cen{
+  max-width: 531px;
+  margin: 104px auto;
+}
+.web-name{
+  font-size: 100px;
+  font-weight:900px ;
+  color: #4E47FF;
+  margin-bottom: 0;
+}
+.web-des{
+  color: #8987A1;
+}
+.link-name{
+  list-style: none;
+  
+}
+.link-link{
+  text-decoration: none;
+  color: #8987A1;
+}
+.ul-link{
+  display: flex;
+  justify-content: space-around;
+}
